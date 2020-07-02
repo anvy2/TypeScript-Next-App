@@ -16,4 +16,10 @@ Lastly modify the scripts in package.json file with the one given here.
 
 
 
+
+Or get rid of doing anything said above and just clone this repo and run yarn install. Lol
+
+
+
+
 That's it. A complete development environment with typescript is ready to work on
