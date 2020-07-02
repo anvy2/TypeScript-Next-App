@@ -8,7 +8,7 @@ Install development dependencies with --dev flag.
 
 Then refactor the project heirarchy to look like same.
 
-Now copy the files tsconfig.server.json and global.d.ts to the root folder of the project
+Now copy the files tsconfig.server.json, global.d.ts and .node-dev.json to the root folder of the project
 
 Now to make a bare minimum express server with react either copy the server folder or write it by copying the one here.
 
