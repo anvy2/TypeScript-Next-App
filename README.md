@@ -14,6 +14,6 @@ Now to make a bare minimum express server with react either copy the server fold
 
 Lastly modify the scripts in package.json file with the one given here.
 
-
+Or just clone this repo and get rid of doing anything said above. Lol
 
 That's it. A complete development environment with typescript is ready to work on
